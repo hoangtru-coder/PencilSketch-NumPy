@@ -39,18 +39,9 @@ Trình duyệt sẽ tự động mở trang web tại địa chỉ: `http://loca
 ├── app.py                  # Giao diện Web tương tác Streamlit (3 Tabs, xuất PNG, CSV, XLSX)
 ├── pencil_sketch.py        # Thư viện thuật toán xử lý ảnh số lõi thuần NumPy (From Scratch)
 ├── requirements.txt        # Danh mục thư viện phụ thuộc (streamlit, numpy, opencv, pillow, pandas, openpyxl)
-├── BAO_CAO_PROJECT.md      # Báo cáo nghiệm thu đồ án chi tiết (Markdown chuẩn học thuật)
-├── BAO_CAO_PROJECT.docx    # Báo cáo nghiệm thu định dạng Microsoft Word hoàn chỉnh
 ├── .gitignore              # Bộ lọc bỏ file tạm cache của Python
 └── README.md               # Tài liệu giới thiệu dự án
 ```
-
----
-
-## 📖 Báo Cáo Nghiệm Thu
-Chi tiết về cơ sở toán học, phân tích độ phức tạp thuật toán, khảo sát thực nghiệm và phân tích các trường hợp thất bại (Failure Cases) được trình bày đầy đủ tại:
-- [Báo cáo Markdown (BAO_CAO_PROJECT.md)](BAO_CAO_PROJECT.md)
-- [Báo cáo Microsoft Word (BAO_CAO_PROJECT.docx)](BAO_CAO_PROJECT.docx)
 
 ---
 
